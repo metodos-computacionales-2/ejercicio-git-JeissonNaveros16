@@ -2,6 +2,7 @@
 
 bool triangulo(int L1, int L2, int L3);
 
+// Comentario para hacer otro commit
 int main(void)
 {
     std::cout<<"Ingrese la longitud de los lados del triangulo:"<<std::endl;
